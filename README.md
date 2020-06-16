@@ -7,7 +7,9 @@ Most machine learning algorithms assume that the input data is in Euclidean spac
 
 
 # Theory
-![function](https://user-images.githubusercontent.com/59387983/84757355-03977400-afff-11ea-9c3a-9be589460715.PNG)
+<p align="center">
+  <img width="460" height="300" src="(https://user-images.githubusercontent.com/59387983/84757355-03977400-afff-11ea-9c3a-9be589460715.PNG">
+</p>
 
 Since data must be expressed to contain relationship information between all nodes, these information are expressed in an Adjacency matrix.
 
