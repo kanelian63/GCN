@@ -7,10 +7,11 @@ Most machine learning algorithms assume that the input data is in Euclidean spac
 
 
 # Theory
-
+<p align="center">
 ![function](https://user-images.githubusercontent.com/59387983/84757355-03977400-afff-11ea-9c3a-9be589460715.PNG)
+</p>
 
-![tjfaud]</center>(https://user-images.githubusercontent.com/59387983/84757357-04c8a100-afff-11ea-9779-327fbe18498d.PNG)
+![tjfaud](https://user-images.githubusercontent.com/59387983/84757357-04c8a100-afff-11ea-9779-327fbe18498d.PNG)
 
 ![normalized admatrix](https://user-images.githubusercontent.com/59387983/84757359-04c8a100-afff-11ea-8e61-719db790045a.PNG)
 
