@@ -10,14 +10,14 @@ Most machine learning algorithms assume that the input data is in Euclidean spac
 
 ![function](https://user-images.githubusercontent.com/59387983/84757355-03977400-afff-11ea-9c3a-9be589460715.PNG)
 
-![tjfaud](https://user-images.githubusercontent.com/59387983/84757357-04c8a100-afff-11ea-9779-327fbe18498d.PNG){: .center}
+![tjfaud](https://user-images.githubusercontent.com/59387983/84757357-04c8a100-afff-11ea-9779-327fbe18498d.PNG)</center>
 
-![normalized admatrix](https://user-images.githubusercontent.com/59387983/84757359-04c8a100-afff-11ea-8e61-719db790045a.PNG){: .center}
+![normalized admatrix](https://user-images.githubusercontent.com/59387983/84757359-04c8a100-afff-11ea-8e61-719db790045a.PNG)
 
-![Diagonal Node Degree Matrix](https://user-images.githubusercontent.com/59387983/84757368-072afb00-afff-11ea-8fa9-35f339e36acb.PNG){: .center}
+![Diagonal Node Degree Matrix](https://user-images.githubusercontent.com/59387983/84757368-072afb00-afff-11ea-8fa9-35f339e36acb.PNG)
 
 # Input
-![input](https://user-images.githubusercontent.com/59387983/84757361-05613780-afff-11ea-813c-c055e14cb2f8.PNG){: .center}
+![input](https://user-images.githubusercontent.com/59387983/84757361-05613780-afff-11ea-813c-c055e14cb2f8.PNG)
 
 
 
