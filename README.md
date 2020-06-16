@@ -24,10 +24,9 @@ The D matrix is a matrix indicating how many nodes are connected, including itse
 # Inputs
 ![input](https://user-images.githubusercontent.com/59387983/84757361-05613780-afff-11ea-813c-c055e14cb2f8.PNG)
 
+The input data is processed in the above format, and the weight matrix of filters is implemented by continuously multiplying the matrix by the filter matrix.
 
+# Lecture
+![다운로드](https://user-images.githubusercontent.com/59387983/84760363-dd73d300-b002-11ea-9e4d-2db98c23ce7d.png)
 
-
-
-# Prediction
-
-# References
+https://www.youtube.com/watch?v=YL1jGgcY78U&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&index=29
