@@ -1,5 +1,5 @@
 # Graph Neural Networks
-
+Graph neural networks (GNNs) are connectionist models that capture the dependence of graphs via message passing between the nodes of graphs. Unlike standard neural networks, graph neural networks retain a state that can represent information from its neighborhood with arbitrary depth.
 
 # Graphing
 ![Graphing](https://user-images.githubusercontent.com/59387983/84757222-d9de4d00-affe-11ea-8dd0-aa6fee084ca0.PNG)
