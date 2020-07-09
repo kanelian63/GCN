@@ -1,5 +1,5 @@
-# GCN
-Graph Neural Networks
+# Graph Neural Networks
+
 
 # Graphing
 ![Graphing](https://user-images.githubusercontent.com/59387983/84757222-d9de4d00-affe-11ea-8dd0-aa6fee084ca0.PNG)
